@@ -1,2 +1,0 @@
-# PackageReferencesCollector
-PackageReferencesCollector scan "project directory"
